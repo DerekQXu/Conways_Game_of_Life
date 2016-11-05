@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\derek\desktop\conwaysgameoflife\conwaysgameoflife\main.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\derek\desktop\conwaysgameoflife\conwaysgameoflife\main.cpp(183): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConwaysGameOfLife.vcxproj -> C:\Users\Derek\Desktop\ConwaysGameOfLife\Debug\ConwaysGameOfLife.exe
+  ConwaysGameOfLife.vcxproj -> C:\Users\Derek\Desktop\ConwaysGameOfLife\Debug\ConwaysGameOfLife.pdb (Partial PDB)
