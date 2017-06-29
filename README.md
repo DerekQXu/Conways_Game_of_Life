@@ -2,6 +2,6 @@
 
 This program simulates John Conway's Game of Life.
 
-##Usage
+## Usage
 
 Simply run the main.cpp file.
